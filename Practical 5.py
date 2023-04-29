@@ -4,7 +4,7 @@ now=time.ctime()
 qna = {
    "hi":"hey",
    "how are you":"I am fine",
-   "what is your name":"My name is Amruta",
+   "what is your name":"My name is Jyotirani",
    "how old are you":"I am 20 years old",
    "what is the time now":now
 }
